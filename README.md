@@ -1,2 +1,2 @@
 # cuo-store
-For E-commerce 
+Frontend For E-commerce Website
